@@ -1,0 +1,50 @@
+.reset-password-para2{
+    color: white;
+    font-size: 16px;
+    font-weight:600;
+    
+}
+.label-input-set-otp{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    flex-basis: auto;
+   
+    justify-content: space-between;
+    align-items: center;
+
+}
+.input-bar-forget-page{
+    height: 30px;
+    width: 200px;
+    flex-grow: 1;
+    background-color: #d1e1e6;
+    outline: 0;
+    border: 1px solid #a5b3b8;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    font-size: 16px;
+    padding-left: 8px;
+    color: #616769; 
+    ;  
+}
+.req-otp{
+    background-color: #57a9f7;
+    color: white;
+    font-weight: bold;
+    height: 33px;
+    border: 0;
+    outline: 0;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.req-otp:active{
+    background-color: blue;
+}
+.req-otp:focus {
+    background-color: blue;
+}

@@ -1,0 +1,24 @@
+.forget-password-container{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    color: white;
+    width: 300px;
+    font-size: 12px;
+    margin: 0;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    gap: 10px;
+}
+.forget-password-para1{
+    margin: 0;
+    font-weight: 100;
+
+}
+.reset-password-para1{
+    margin: 0;
+    text-decoration: underline;
+    font-weight: 500;
+}
